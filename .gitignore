@@ -1,0 +1,56 @@
+# Environments
+.env
+.env.local
+.env.production
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+.pytest_cache/
+
+# Node
+node_modules/
+.npm/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Databases & Logs
+*.sqlite
+*.sqlite3
+*.db
+*.log
+backend.log
+
+# Next.js
+.next/
+out/
+build/
+
+# Application Specific
+deciflow.db

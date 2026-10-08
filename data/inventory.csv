@@ -1,0 +1,11 @@
+sku_id,stock,stock_status,velocity
+SKU-101,152,At Risk,33
+SKU-102,320,At Risk,47
+SKU-201,121,At Risk,25
+SKU-202,28,At Risk,27
+SKU-301,380,Healthy,15
+SKU-302,137,At Risk,40
+SKU-401,921,Healthy,28
+SKU-402,180,At Risk,26
+SKU-501,358,Healthy,6
+SKU-502,393,At Risk,48

@@ -1,0 +1,11 @@
+sku_id,product_name,price,margin,category
+SKU-101,Pro Wireless Earbuds,149.99,0.65,Electronics
+SKU-102,Noise Cancelling Headphones,299.99,0.55,Electronics
+SKU-201,Ergonomic Office Chair,249.99,0.4,Furniture
+SKU-202,Standing Desk,499.99,0.35,Furniture
+SKU-301,Yoga Mat Premium,59.99,0.75,Fitness
+SKU-302,Adjustable Dumbbells,199.99,0.3,Fitness
+SKU-401,Smart Watch Series X,199.99,0.5,Electronics
+SKU-402,Fitness Tracker,49.99,0.6,Electronics
+SKU-501,Organic Protein Powder,39.99,0.7,Health
+SKU-502,Daily Vitamins,24.99,0.8,Health
